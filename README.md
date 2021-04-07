@@ -13,4 +13,5 @@ This is sample login react native app with redux .
   
   No external libraries such as react native elements are not used
   
-  
+  Android build apk file is attached for reference
+    https://drive.google.com/file/d/1JGhUHeZiPf7uDM5WnusJrPsxLNowxToV/view?usp=sharing
